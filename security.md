@@ -193,3 +193,5 @@ Use the button in the Quick Start section.
 ---
 
 *MY HERO ULTRA RUMBLE · Updated 2026-11-15 · Shared under the MIT License*
+
+<!-- last reviewed 2026-11-15 -->
